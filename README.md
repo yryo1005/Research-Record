@@ -14,10 +14,12 @@
 ### 査読付き学術雑誌（国内外）
 
 1. **山富 龍**，マハブービ シェヘラザード，二宮 洋，“Warai Transformer: Transformerを用いた画像に対する大喜利生成AI，” Journal of Signal Processing, vol.30, no.5, pp.173-190, Sep. 2026.
+[https://doi.org/10.2299/jsp.30.173](https://doi.org/10.2299/jsp.30.173)
 
 ### 国際会議・シンポジウム（査読付き）
 
 1. **Ryo Yamatomi**, Shahrzad Mahboubi, and Hiroshi Ninomiya, “Generative Model of Suitable Meme Sentences for Images using AutoEncoder,” *Proc. of the 20th Pacific Rim International Conference on Artificial Intelligence*, pp.237-248, Nov. 2023.
+[https://doi.org/10.1007/978-981-99-7019-3_23](https://doi.org/10.1007/978-981-99-7019-3_23)
 
 ### 国内学会発表
 
@@ -38,10 +40,11 @@
 ### 査読付き学術雑誌（国内外）
 
 1. Shahrzad Mahboubi, **Ryo Yamatomi**, and Hiroshi Ninomiya, “On the Study of Memory-Less quasi-Newton Method with Momentum Term for Neural Network Training,” *Nonlinear Theory and Its Applications, IEICE*, vol.13, no.2, pp.271-276, Apr. 2022.
+ [https://doi.org/10.1587/nolta.13.271](https://doi.org/10.1587/nolta.13.271)
 
 ### 国際会議・シンポジウム（査読付き）
 
-1. Kai Ishida, Yuma Ikeda, **Ryo Yamatomi**, “Deep Learning-Based Vascular Region Estimation from Ultrasound Images,” *Proc. of IEEE International Symposium on Medical Information and Communication Technology*, Sep. 2026. (発表予定)
+1. Kai Ishida, Yuma Ikeda, **Ryo Yamatomi**, “Deep Learning-Based Vascular Region Estimation from Ultrasound Images,” *Proc. of IEEE International Symposium on Medical Information and Communication Technology*, Sep. 2026. 
 
 ### 国内学会発表
 
