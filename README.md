@@ -16,6 +16,8 @@
 1. **山富 龍**，マハブービ シェヘラザード，二宮 洋，“Warai Transformer: Transformerを用いた画像に対する大喜利生成AI，” Journal of Signal Processing, vol.30, no.5, pp.173-190, Sep. 2026.
 [https://doi.org/10.2299/jsp.30.173](https://doi.org/10.2299/jsp.30.173)
 
+2. **Ryo Yamatomi**，Suguru Asai，Hiroshi Ninomiya，“Averaged Snapshots and Approximated Full Gradients for the Stochastic Variance-Reduced Gradient Method，” *Nonlinear Theory and Its Applications, IEICE*, Oct. 2026. (査読中)
+
 ### 国際会議・シンポジウム（査読付き）
 
 1. **Ryo Yamatomi**, Shahrzad Mahboubi, and Hiroshi Ninomiya, “Generative Model of Suitable Meme Sentences for Images using AutoEncoder,” *Proc. of the 20th Pacific Rim International Conference on Artificial Intelligence*, pp.237-248, Nov. 2023.
